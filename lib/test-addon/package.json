@@ -1,0 +1,13 @@
+{
+  "name": "test-addon",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-sass": "*",
+    "node-sass": "*"
+  },
+  "devDependencies": {
+    "ember-cli-foundation-6-sass": "*"
+  }
+}

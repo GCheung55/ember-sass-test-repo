@@ -1,0 +1,19 @@
+{
+  "name": "test-engine",
+  "keywords": [
+    "ember-addon",
+    "ember-engine"
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "*",
+    "ember-cli-babel": "*",
+    "ember-cli-sass": "*",
+    "ember-cli-foundation-6-sass": "*",
+    "node-sass": "*"
+  },
+  "ember-addon": {
+    "paths": [
+      "../test-addon"
+    ]
+  }
+}
